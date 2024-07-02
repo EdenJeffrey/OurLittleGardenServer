@@ -1,0 +1,12 @@
+#Folders
+logs/*
+defaultconfigs/*
+.mixin.out/*
+.gradle/*
+.minecraft/*
+
+#File types
+*.log
+*.DS_Store
+Thumbs.db
+*.idea/*
