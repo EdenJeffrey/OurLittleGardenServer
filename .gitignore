@@ -2,11 +2,12 @@
 logs/*
 defaultconfigs/*
 .mixin.out/*
+.fabric/*
 .gradle/*
 .minecraft/*
+.idea/*
 
 #File types
 *.log
 *.DS_Store
 Thumbs.db
-*.idea/*
