@@ -4612,5 +4612,23 @@
     },
     "done": true
   },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2024-07-03 10:40:12 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-07-03 10:38:47 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-07-03 10:38:47 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
