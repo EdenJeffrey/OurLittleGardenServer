@@ -4,6 +4,7 @@ Server files for our little garden modded minecraft pack
 # Server Instructions
 - Go to your router settings and port forward the port "25565" tcp/udp
 - Run "start.bat"
+- Send people your Ipv4 address with ":25565" appended
 - Done
 
 # Client Instructions
